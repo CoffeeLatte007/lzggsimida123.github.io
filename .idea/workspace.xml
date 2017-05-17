@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5b2250e-9cd3-4d61-b56e-495655f4ca15" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/js/jquery.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/js/jquery.js" afterPath="$PROJECT_DIR$/styles/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.html" afterPath="$PROJECT_DIR$/about/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/effects/demo/canvas-bg4.html" afterPath="$PROJECT_DIR$/effects/demo/canvas-bg4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/effects/demo/welcome.html" afterPath="$PROJECT_DIR$/effects/demo/welcome.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -58,11 +64,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/styles/js/jquery.js">
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="9197" column="1" lean-forward="false" selection-start-line="9197" selection-start-column="1" selection-end-line="9197" selection-end-column="1" />
+            <state relative-caret-position="297">
+              <caret line="11" column="85" lean-forward="true" selection-start-line="11" selection-start-column="85" selection-end-line="11" selection-end-column="85" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="welcome.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/effects/demo/welcome.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="33" column="6" lean-forward="true" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="canvas-bg4.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/effects/demo/canvas-bg4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -78,48 +114,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="banner.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/banner.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="62" lean-forward="true" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pages_list" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/LessOrMore/pages_list">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="comments" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/LessOrMore/comments">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>site.github</find>
-      <find>s</find>
-      <find>三</find>
-      <find>x</find>
-      <find>xu</find>
-      <find>xue</find>
-      <find>学</find>
-      <find>学wei</find>
       <find>学we</find>
       <find>学w</find>
       <find>学wu</find>
@@ -139,8 +137,17 @@
       <find>pa</find>
       <find>page</find>
       <find>page.</find>
-      <find>sidenav</find>
       <find>jquer</find>
+      <find>sidenav</find>
+      <find>红彤彤</find>
+      <find>合同</find>
+      <find>和</find>
+      <find>h</find>
+      <find>ht</find>
+      <find>http</find>
+      <find>htt</find>
+      <find>http://apps.bdimg.com/libs/jquery/1.11.3/jquery.min.js</find>
+      <find>https://lzggsimida123.github.io/2017/01/16/my-test-effects/</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -155,7 +162,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/about/index.html" />
         <option value="$PROJECT_DIR$/categories/index.html" />
         <option value="$PROJECT_DIR$/donate/index.md" />
         <option value="$PROJECT_DIR$/effects/index.html" />
@@ -163,11 +169,14 @@
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/interview/2017-05-17-my-test-effects.md" />
         <option value="$PROJECT_DIR$/_includes/lefttree.html" />
         <option value="$PROJECT_DIR$/styles/js/jquery.js" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/effects/demo/welcome.html" />
+        <option value="$PROJECT_DIR$/about/index.html" />
+        <option value="$PROJECT_DIR$/effects/demo/canvas-bg4.html" />
       </list>
     </option>
   </component>
@@ -243,28 +252,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lzggsimida123.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lzggsimida123.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery.js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -799,12 +786,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495025251669</updated>
-      <workItem from="1495025252974" duration="7930000" />
+      <workItem from="1495025252974" duration="8245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7930000" />
+    <option name="totallyTimeSpent" value="8245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -856,14 +843,6 @@
     <entry file="file://$PROJECT_DIR$/styles/images/me/me.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tag/index.html">
@@ -961,14 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-347">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="80" lean-forward="true" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
           <folding />
         </state>
       </provider>
@@ -1147,9 +1118,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1171,8 +1140,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="9197" column="1" lean-forward="false" selection-start-line="9197" selection-start-column="1" selection-end-line="9197" selection-end-column="1" />
+        <state relative-caret-position="431">
+          <caret line="9200" column="4" lean-forward="true" selection-start-line="9200" selection-start-column="4" selection-end-line="9200" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="85" lean-forward="true" selection-start-line="11" selection-start-column="85" selection-end-line="11" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/effects/demo/welcome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="33" column="6" lean-forward="true" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/effects/demo/canvas-bg4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
           <folding />
         </state>
       </provider>
