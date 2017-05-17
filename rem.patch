@@ -1,0 +1,17 @@
+Index: _posts/useful/2017-03-06-html-rem.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _posts/useful/2017-03-06-html-rem.md	(revision 2117aada3802461166460f702bde16eed7206a91)
++++ _posts/useful/2017-03-06-html-rem.md	(revision )
+@@ -127,4 +127,6 @@
+ }
+ ```
+ 
+-　　（本文参考 [_minooo_ 的简书内容](http://www.jianshu.com/p/985d26b40199)）未完待续 ···
+\ No newline at end of file
++　　（本文参考 [_minooo_ 的简书内容](http://www.jianshu.com/p/985d26b40199)）未完待续 ···
++
++　　学习资料：[移动端高清多屏适配的解决方案](http://div.io/topic/1092)
+\ No newline at end of file

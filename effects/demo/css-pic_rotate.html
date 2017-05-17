@@ -1,0 +1,55 @@
+---
+layout: effect
+title: CSS3 图片翻转
+date: 2017-02-27 13:15:15 +0800
+---
+
+<style>
+    .flip-container {
+        display: inline-block;
+        border: 1px solid #aaa;
+        -webkit-perspective: 500;
+        -moz-perspective: 500;
+        -ms-perspective: 500;
+        perspective: 500;
+        -ms-transform: perspective(500px);
+        -moz-transform: perspective(500px);
+        transform-style: preserve-3d;
+    }
+    .flipper {
+        position: relative;
+        width: 100px;
+        height: 100px;
+        margin: 0 auto;
+        transition: 0.6s;
+        transform-style: preserve-3d;
+    }
+    /* 触发翻转 */
+    .flip-container:hover .flipper{
+        transform: rotateY(-180deg);
+
+    }
+    .front ,.back{
+        position: absolute;
+        left: 0;
+        top: 0;
+        backface-visibility: hidden;
+        width: 100%;
+        height: 100%;
+    }
+    .front {
+        transform: rotateY(0deg);
+        z-index: 2;
+        background: #FFFF00;
+    }
+    .back {
+        transform: rotateY(180deg);
+        background: #FFC0CB;
+    }
+</style>
+<div class="flip-container">
+    <div class="flipper">
+        <div class="front">这是正面</div>
+        <div class="back">这是反面</div>
+    </div>
+</div>
