@@ -1,14 +1,14 @@
 # Site settings
-name: DoubleRay`Blog
-email: doubleray.wang@gmail.com
-author: DoubleRay Wang
-url: http://doubleray.win
+name: lizhao`s Blog
+email: lizhao07@meituan.com
+author: lizhao07
+url: https://lzggsimida123.github.io/
 resume_site: /resume
-github: https://github.com/DoubleRayWang/
+github: https://github.com/lzggsimida123
 baseurl: ""
-description: 看护好自己曾经的激情与理想，在这个怀疑的年代，依然需要信仰。
-motto: 不懂的知识就努力去补充，这才是成长之道！
-banner: 学而不思则罔，思而不学则殆。
+description: 我的梦想是世界和平
+motto: talk is cheap , show me your code
+banner:  世界上有10种人，一种懂二进制，一种不懂二进制
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
 excerpt_separator:  '<!-- more -->'
