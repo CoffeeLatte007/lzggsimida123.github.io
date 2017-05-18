@@ -9,10 +9,11 @@ tag: cxf,spring
 * content
 {:toc}
 
-    cxf的学习,结合spring的总结
+
+
+　　CXF和spring结合学习以及发布
+    <!-- more -->
     
-      
-      
 ##第一步配置MAVEN依赖
 
 ```
@@ -102,7 +103,6 @@ tag: cxf,spring
 </dependencies>
 </project>
 ```
-<!-- more -->
 ##第二步：编写WS接口及其实现
 
 ```
