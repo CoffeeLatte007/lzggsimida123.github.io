@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5b2250e-9cd3-4d61-b56e-495655f4ca15" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/interview/2017-05-18-docker-effects.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/interview/2017-05-17-my-test-effects.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/interview/2017-05-18-docker-effects.md" afterPath="$PROJECT_DIR$/_posts/interview/2017-05-18-docker-effects.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,8 +33,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/interview/2017-05-18-docker-effects.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="324">
-                <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <first_editor relative-caret-position="378">
+                <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -186,6 +186,7 @@
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_includes/e-head.html" />
         <option value="$PROJECT_DIR$/_posts/interview/2017-05-17-my-test-effects.md" />
+        <option value="$PROJECT_DIR$/_posts/interview/2017-05-18-docker-effects.md" />
       </list>
     </option>
   </component>
@@ -367,6 +368,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/DoubleRayWang.github.io-master" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -798,12 +800,12 @@
       <option name="presentableId" value="Default" />
       <updated>1495025251669</updated>
       <workItem from="1495025252974" duration="9319000" />
-      <workItem from="1495068845665" duration="3659000" />
+      <workItem from="1495068845665" duration="4007000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12978000" />
+    <option name="totallyTimeSpent" value="13326000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1180,8 +1182,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/interview/2017-05-18-docker-effects.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="324">
-            <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <first_editor relative-caret-position="378">
+            <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
             <folding />
           </first_editor>
           <second_editor />
