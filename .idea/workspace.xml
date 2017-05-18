@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5b2250e-9cd3-4d61-b56e-495655f4ca15" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/images/favicon.ico" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/interview/2017-05-18-docker-effects.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/interview/2017-05-17-my-test-effects.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,9 +22,22 @@
       <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
+            <state relative-caret-position="179">
               <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-05-18-docker-effects.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/interview/2017-05-18-docker-effects.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="324">
+                <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -58,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
-              <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+              <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -161,7 +175,6 @@
         <option value="$PROJECT_DIR$/resume.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_posts/interview/2017-05-17-my-test-effects.md" />
         <option value="$PROJECT_DIR$/_includes/lefttree.html" />
         <option value="$PROJECT_DIR$/styles/js/jquery.js" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
@@ -172,6 +185,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_includes/e-head.html" />
+        <option value="$PROJECT_DIR$/_posts/interview/2017-05-17-my-test-effects.md" />
       </list>
     </option>
   </component>
@@ -182,10 +196,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="81" />
-    <option name="y" value="180" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="955" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -228,6 +242,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -352,6 +370,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\meituan\lzggsimida123.github.io\styles\images" />
       <recent name="G:\meituan\lzggsimida123.github.io\styles\js" />
       <recent name="G:\meituan\lzggsimida123.github.io\styles\images\me" />
     </key>
@@ -779,15 +798,16 @@
       <option name="presentableId" value="Default" />
       <updated>1495025251669</updated>
       <workItem from="1495025252974" duration="9319000" />
-      <workItem from="1495068845665" duration="2659000" />
+      <workItem from="1495068845665" duration="3659000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11978000" />
+    <option name="totallyTimeSpent" value="12978000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="81" y="180" width="1936" height="955" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -808,8 +828,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29685536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26339287" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -995,42 +1015,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/interview/2017-05-17-my-test-effects.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1944">
-            <caret line="114" column="63" lean-forward="true" selection-start-line="114" selection-start-column="63" selection-end-line="114" selection-end-column="63" />
-            <folding>
-              <marker date="1495031110123" expanded="true" signature="817:904" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="853:888" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="992:1136" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="1052:1133" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="1694:1796" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="1754:1777" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="2448:2493" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="2514:2709" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="2562:2703" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="2648:2693" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="3087:3751" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="3151:3744" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="3196:3575" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="3230:3308" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="3450:3529" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="3619:3734" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="3653:3721" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="3995:4401" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="4028:4069" ph="//..." />
-              <marker date="1495031110123" expanded="true" signature="4081:4398" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="4102:4257" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="4298:4392" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="4835:4986" ph="{...}" />
-              <marker date="1495031110123" expanded="true" signature="4940:4979" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/donate/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1148,14 +1132,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
@@ -1188,8 +1164,27 @@
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/interview/2017-05-18-docker-effects.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="324">
+            <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
